@@ -4,13 +4,14 @@
 综合大型质检机构经验，系统功能完善、流程丰富。具备各种批量快捷操作功能，包括售前、开单、样品、派工、数据管理、出证、发放等流程。证书模板化、标签管理、易编辑、快速打印，生成PDF电子报告、报告签名、电子签章、骑缝章、可网上验真查询。深入结合Excel，能操作Excel就会编辑证书，原始记录管理，报告修改痕迹查询。报告管理助手，能无缝兼容各种主流浏览器。
 http://www.qifengs.vip/qt
 #### 软件架构
-Java+MySql+redis+vue
-![](./img2.png)
+Java+MySql+redis+vue3
+![img.png](http://qifengs.vip/mt/img/qt_flow.jpg)
 
 #### 系统截图
+http://www.qifengs.vip/qt
 
 #### 在线体验/咨询
-![](img.png)
+ ![img.png](http://qifengs.vip/mt/img/wechar.png)
 
 
 
