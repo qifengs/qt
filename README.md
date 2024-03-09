@@ -5,12 +5,12 @@
 http://www.qifengs.vip/qt
 #### 软件架构
 Java+MySql+redis+vue
-![](images/img2.png)
+![](./img2.png)
 
 #### 系统截图
 
 #### 在线体验/咨询
-![](images/img.png)
+![](img.png)
 
 
 
